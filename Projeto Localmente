@@ -1,0 +1,9 @@
+Ajuda-Juridica/
+├── backend/
+│   ├── server.js
+│   └── .env
+├── frontend/
+│   ├── src/
+│   │   └── App.jsx
+│   └── package.json
+└── README.md
